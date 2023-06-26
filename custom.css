@@ -1,0 +1,56 @@
+ .js-store-prod-text a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 0px;
+    border-size: 1px;
+    font-weight: 400;
+}
+.js-store-prod-text a:first-of-type {
+    background-color: #fffaf0;
+    color: #212121 !important;
+}
+.js-store-prod-text a:last-of-type {
+    background-color: #fffaf0;
+    color: #212121 !important;
+}
+
+.t706__cartwin_showed {
+    z-index: 999999999;
+}
+
+
+
+    #rec500807991 .t-store__card__title {
+    color: #212121;
+    font-size: 36px;
+    padding: 20px;
+    font-family: 'Cormorant Garamond';
+    text-transform: uppercase;
+    background: #e9b853;
+}
+
+
+    #rec531711417 .t-store__card__title {
+    color: #212121;
+    font-size: 36px;
+    padding: 20px;
+    font-family: 'Cormorant Garamond';
+    text-transform: uppercase;
+    background: #e9b853;
+}
+
+
+.t-input-group_pm {
+    margin-top: 60px !Important;
+}
+
+.t-radio__control  {
+    font-size: 16px !Important;
+    font-family: 'FuturaPT',Arial,sans-serif !Important;
+}
+
+.t-radio__wrapper-payment {
+    margin-top: 15px !Important;
+}
